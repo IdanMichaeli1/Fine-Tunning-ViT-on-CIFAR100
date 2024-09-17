@@ -1,0 +1,4 @@
+data/
+logs/
+output-models/checkpoint*
+output-models/model*
